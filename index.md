@@ -4,6 +4,12 @@ _Phone: (204)-951-xxxx_
 _Email: liaog@myumanitoba.ca_  
   
   
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 # _**EDUCATION**_  
 #### (Expected graduation time: Feburary 2023) 
 | Time                | Institution                                            |
