@@ -34,12 +34,12 @@ _[My Github](https://github.com/liao4869)_
 # _**PROJECT**_
 
 * **[AES-128](https://github.com/liao4869/AES-128)**  
-Implemented of a demo algorithm of Advanced Encryption Standard (128-bit) by Java
+Implemented a demo algorithm of Advanced Encryption Standard (128-bit) by Java
 
 
 # _**EXPERIENCE**_
 
-* Developed of food delivery website with classmates in COMP-3020 (HCI)
-* Developed of game store APP with classmates in COMP-3350 (Software Engineering 1)
+* Developed food delivery website with classmates in COMP-3020 (HCI)
+* Developed game store APP with classmates in COMP-3350 (Software Engineering 1)
 
 
