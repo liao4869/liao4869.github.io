@@ -11,16 +11,12 @@ _Email: liaog@myumanitoba.ca_
 | May 2017 - Present | Bachelor of Science - Computer Science Major in U of M |  
   
 Expected graduation time: Feburary 2023  
-  
 
-###### Header 6
+| Time                | Institution                                            |
+|:--------------------|:-------------------------------------------------------|
+| Sep 2016 - Apr 2017 | ELC in U of M                                          |
+| May 2017 - Present  | Bachelor of Science - Computer Science Major in U of M |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |  
 
 # _**TECHNICAL SKILLS**_  
 | Languages | Programming Languages | Tools |
