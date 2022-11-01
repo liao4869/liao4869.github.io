@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [G. Liao's page]
 description: [This personal page is built by Github Pages and Minimal theme.]
+is_project_page: [true]
