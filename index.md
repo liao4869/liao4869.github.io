@@ -22,7 +22,7 @@ _[My Github](https://github.com/liao4869)_
 |                    | Java                  | Android Studio                   |
 |                    | Processing            | OpenGL                           |
 |                    | SQL                   | SQLite                           |
-|                    |                       | Office (Word, Excel, Powerpoint) |
+|                    |                       | Office (Word, Excel, PowerPoint) |
 
 
 #### **Additional skills**
