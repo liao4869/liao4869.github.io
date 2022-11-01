@@ -1,21 +1,10 @@
 # **Gongyu Liao**
 _2080 Pembina Highway, Winnipeg, MB, R3T 2G9_  
 _Phone: (204)-951-xxxx_  
-_Email: liaog@myumanitoba.ca_  
-  
-  
-###### Header 6
+_Email: liaog@myumanitoba.ca_
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.  
-
-# _**EDUCATION**_  
+# _**EDUCATION**_
 #### (Expected graduation time: Feburary 2023)
 
 | Time                | Institution                                            |
@@ -34,9 +23,9 @@ _Email: liaog@myumanitoba.ca_
 |                    | SQL                   | SQLite         |
 
 #### **Additional skills**
-Assemble personal computer.  
-Fix little errors in personal computer.  
-3D modeling (learning).
+* Assemble personal computer.  
+* Fix little errors in personal computer.  
+* 3D modeling (learning).
 
   
 # _**EXPERIENCE**_  
