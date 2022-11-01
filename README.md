@@ -21,7 +21,7 @@ In this case, the README file will teach CS students how to host and format a re
 * [Github Pages](https://pages.github.com/)
 
 #### Example of resume in Markdown
-* [My resume](liao4869.github.io)
+* [My resume](https://liao4869.github.io/)
 
 
 ## Instructions
