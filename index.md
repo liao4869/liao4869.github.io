@@ -5,7 +5,7 @@ _Email: liaog@myumanitoba.ca_
 _[My Github](https://github.com/liao4869)_
 
 
-# _**EDUCATION**_
+## _**EDUCATION**_
 #### (Expected graduation time: Feburary 2023)
 
 | Time                | Institution                                            |
@@ -13,7 +13,7 @@ _[My Github](https://github.com/liao4869)_
 | Sep 2016 - Apr 2017 | ELC in U of M                                          |
 | May 2017 - Present  | Bachelor of Science - Computer Science Major in U of M |
 
-# _**TECHNICAL SKILLS**_
+## _**TECHNICAL SKILLS**_
 
 | Languages          | Programming Languages | Tools          |
 |:------------------:|:---------------------:|:--------------:|
@@ -29,7 +29,11 @@ _[My Github](https://github.com/liao4869)_
 * 3D modeling (learning).
 
   
-# _**EXPERIENCE**_  
+## _**EXPERIENCE/PROJECT**_
+* **[AES-128](https://github.com/liao4869/AES-128)**  
+Implementation of Advanced Encryption Standard (128-bit) by Java
+
+
 
  
 
