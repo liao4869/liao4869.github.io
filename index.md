@@ -17,10 +17,10 @@ Expected graduation time: Feburary 2023
 | Languages | Programming Languages | Tools |
 | :----: | :----: | :----: |
 | Chinese (Mandarin) | C | Github |
-| English |||||| C++ |||||| Github Pages |
-|  |||||| Java |||||| Android Studio |
-|  |||||| Processing |||||| OpenGL |
-|  |||||| SQL |||||| SQLite |
+| English | C++ | Github Pages |
+|  | Java | Android Studio |
+|  | Processing | OpenGL |
+|  | SQL | SQLite |
 #### **Additional skills**
 Assemble personal computer.  
 Fix little errors in personal computer.  
