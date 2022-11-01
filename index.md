@@ -1,16 +1,18 @@
 # **Gongyu Liao**
-2080 Pembina Highway, Winnipeg, MB, R3T 2G9
-Phone: (204)-951-3943
-Email: liaog@myumanitoba.ca
+_2080 Pembina Highway, Winnipeg, MB, R3T 2G9_
+
+_Phone: (204)-951-3943_
+
+_Email: liaog@myumanitoba.ca_
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
+
+
 
 # Header 1
 
