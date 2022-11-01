@@ -5,6 +5,24 @@ In this case, the README file will teach CS students how to host and format a re
 ## Contents
 
 ## Prerequisites
+#### Install a Markdown editor or use a online editor
+* [Markdown editors](https://www.oberlo.ca/blog/markdown-editors/)
+* [Online editors](https://techwiser.com/online-markdown-editor/)
+
+#### Markdown tutorial
+* [Markdown basic syntax](https://helloacm.com/markdown-markup-language-quick-tutorial/)
+* [Markdown tutorial](https://www.markdowntutorial.com/)
+
+#### Instal Jekyll
+* [Jekyll official site](https://jekyllrb.com/)
+
+#### Have Github and Github Pages
+* [Github](https://github.com/)
+* [Github Pages](https://pages.github.com/)
+
+#### Example of resume in Markdown
+* [My resume](liao4869.github.io)
+
 
 ## Instructions
 ### Build your own .md file
