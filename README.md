@@ -61,6 +61,30 @@ If you do the following steps, you will have a personal page with pretty Jekyll 
 1. Enter the repository (username.github.io) created in the previous steps
 2. Click "Settings"
 3. Click "Pages" listed in the left side
+4. Click "Learn how to add a Jekyll theme to your site"
+5. View the website just opened in the previous step to learn how to use Jekyll theme
+6. Click [Supported Theme](https://pages.github.com/themes/) in the website
+7. Choose one theme you like and click its link
+8. Read the README.md file in the theme's repository so that you know how to use the theme
+9. Add all useful files that mentioned in the README.md file to your repository for web page
+10. Add a README.md file to state information about your repository for web page
+
+Now, a README.md file and a index.md file for your resume should be in your web page repository with the theme's files. Github will run progress to produce your personal web page for your resume.
+
+### View your resume page
+When you arrive at this step, your personal resume page should be created.
+
+To view your web page, you need to:
+
+1. Go to the repository that host your web page
+2. Click "github-pages"
+3. Click "View deployment"
+
+_Or_
+
+1. Enter "your_username.github.io" by your browser
+
+
 
 
 
