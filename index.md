@@ -15,13 +15,14 @@ _[My Github](https://github.com/liao4869)_
 
 ## _**TECHNICAL SKILLS**_
 
-| Languages          | Programming Languages | Tools          |
-|:------------------:|:---------------------:|:--------------:|
-| Chinese (Mandarin) | C                     | Github         |
-| English            | C++                   | Github Pages   |
-|                    | Java                  | Android Studio |
-|                    | Processing            | OpenGL         |
-|                    | SQL                   | SQLite         |
+| Languages          | Programming Languages | Tools                            |
+|:------------------:|:---------------------:|:--------------------------------:|
+| Chinese (Mandarin) | C                     | Github                           |
+| English            | C++                   | Github Pages                     |
+|                    | Java                  | Android Studio                   |
+|                    | Processing            | OpenGL                           |
+|                    | SQL                   | SQLite                           |
+|                    |                       | Office (Word, Excel, Powerpoint) |
 
 
 #### **Additional skills**
