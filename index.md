@@ -23,18 +23,22 @@ _[My Github](https://github.com/liao4869)_
 |                    | Processing            | OpenGL         |
 |                    | SQL                   | SQLite         |
 
+
 #### **Additional skills**
 * Assemble personal computer.  
 * Fix little errors in personal computer.  
 * 3D modeling (learning).
 
   
-## _**EXPERIENCE/PROJECT**_
+## _**PROJECT**_
+
 * **[AES-128](https://github.com/liao4869/AES-128)**  
 Implementation of Advanced Encryption Standard (128-bit) by Java
 
 
+## _**EXPERIENCE**_
 
- 
+* Development of food delivery website with classmates in COMP-3020 (HCI)
+* Development of game store APP with classmates in COMP-3350 (Software Engineering 1)
 
 
