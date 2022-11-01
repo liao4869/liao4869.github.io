@@ -9,6 +9,7 @@ _Email: liaog@myumanitoba.ca_
 | :---------- | :---------- |
 | Sep 2016-Apr 2017 | ELC in University of Manitoba |
 | May 2017-present | Bachelor of Science-Computer Science Major (undergradute) |  
+  
 Expected graduation time: Feburary 2023  
   
 # _**TECHNICAL SKILLS**_  
