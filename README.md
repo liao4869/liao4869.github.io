@@ -14,4 +14,4 @@ Andrew Etter suggests that a lightweight markup language is better choice than X
 
 ## Authors and Acknowlegements
 
-#FAQs
+## FAQs
