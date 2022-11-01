@@ -69,6 +69,8 @@ If you do the following steps, you will have a personal page with pretty Jekyll 
 9. Add all useful files that mentioned in the README.md file to your repository for web page
 10. Add a README.md file to state information about your repository for web page
 
+_**Tips**_: for most of supported theme that provided by Github Pages, you only need to add a file named "\_config.yml" to let the theme works. You need to add some codes in the blank "\_config.yml" file. The codes that you need to use should be provided in the README.md file of the theme repository. The theme's README.md file will teach you how to use and cutomize the theme for you personal web page as you want.
+
 Now, a README.md file and a index.md file for your resume should be in your web page repository with the theme's files. Github will run progress to produce your personal web page for your resume.
 
 ### View your resume page
@@ -80,10 +82,19 @@ To view your web page, you need to:
 2. Click "github-pages"
 3. Click "View deployment"
 
-_Or_
+_**Or**_
 
 1. Enter "your_username.github.io" by your browser
 
+### Additonal instructions about Jekyll
+Jekyll is a good static web page and blog generator. It's usually used with Markdown and Github Pages together to create personal website. If you want to make your own static website from 0, I suggest use it as a starting point.
+
+Windows OS is not officially supported by Jekyll. However, you still can install and use Jekyll on Windows OS. You need to intall Ruby before installing Jekyll.
+
+* [Here is an article on Jekyll official website about using Jekyll on Windows.](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10)
+* ["How to Install Jekyll on Windows 10 Example"](https://www.youtube.com/watch?v=7QVGUzjqdKE) is a video tutorial about installing Jekyll on Windows 10
+
+If you follow the above instructions, you should have Jekyll in you computer.
 
 
 
