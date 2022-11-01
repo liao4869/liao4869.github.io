@@ -12,7 +12,16 @@ _Email: liaog@myumanitoba.ca_
   
 Expected graduation time: Feburary 2023  
   
-  
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |  
+
 # _**TECHNICAL SKILLS**_  
 | Languages | Programming Languages | Tools |
 | :----: | :----: | :----: |
