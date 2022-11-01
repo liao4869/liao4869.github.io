@@ -2,7 +2,7 @@
 _2080 Pembina Highway, Winnipeg, MB, R3T 2G9_  
 _Phone: (204)-951-xxxx_  
 _Email: liaog@myumanitoba.ca_  
-[My Github](https://github.com/liao4869)
+_[My Github](https://github.com/liao4869)_
 
 
 # _**EDUCATION**_
