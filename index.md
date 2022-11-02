@@ -2,7 +2,7 @@
 _2080 Pembina Highway, Winnipeg, MB, R3T 2G9_  
 _Phone: (204)-951-3943_  
 _Email: liaog@myumanitoba.ca_  
-_[My Github](https://github.com/liao4869)_
+_[Github](https://github.com/liao4869)_
 
 
 # _**EDUCATION**_
@@ -41,5 +41,9 @@ Implemented a demo algorithm of Advanced Encryption Standard (128-bit) by Java
 
 * Developed food delivery website with classmates in COMP-3020 (HCI)
 * Developed game store APP with classmates in COMP-3350 (Software Engineering 1)
+
+
+
+
 
 
