@@ -109,11 +109,36 @@ Windows OS is not officially supported by Jekyll. However, you still can install
 
 
 ### More Resources
+* [Markdown tutorial](https://www.markdowntutorial.com/)
+* [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Github Desktop](https://desktop.github.com/)
+* [Markdown tutorial in Chinese](https://www.runoob.com/markdown/md-tutorial.html)
+* [Markdown online editor I used](https://c.runoob.com/front-end/712/)
 
-## Authors and Acknowlegements
-**Author**
+
+## Authors and Acknowledgments
+**Authors**
 * Gongyu Liao
 
+**Acknowledgments**
+* Professor of COMP-3040
+* Group member: Joshua Daigle
+* [Template authors](https://github.com/pages-themes/minimal)
 
 
 ## FAQs
+### Why is Markdown better than a word processor?
+
+* Markdown is easier to use, update, and host.
+* Markdown is fast and lightweight.
+
+
+### Why is my resume not showing up?
+
+* Github needs a few minuates to update and process your data.
+* Make sure you are using the correct URL of your website.
+* Make sure you commit changes correctly.
+
+
+
+
