@@ -96,6 +96,10 @@ Windows OS is not officially supported by Jekyll. However, you still can install
 
 If you follow the above instructions, you should have Jekyll in you computer.
 
+_**[My resume page](https://liao4869.github.io/) demo: **_
+
+![demo](https://media3.giphy.com/media/IdohCTNOYPR6ol6lZP/giphy.gif?cid=790b76116bee6fcc6922d54e09ff2c8a889b3b19885fd0c5&rid=giphy.gif&ct=g)
+
 
 ### More Resources
 
