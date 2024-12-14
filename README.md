@@ -118,7 +118,7 @@ Windows OS is not officially supported by Jekyll. However, you still can install
 
 ## Authors and Acknowledgments
 **Authors**
-* Gongyu Liao
+* Liao
 
 **Acknowledgments**
 * Professor of COMP-3040
