@@ -1,7 +1,4 @@
-# **Gongyu Liao**
-_2080 Pembina Highway, Winnipeg, MB, R3T 2G9_  
-_Phone: (204)-951-3943_  
-_Email: liaog@myumanitoba.ca_  
+# **Liao**
 _[Github](https://github.com/liao4869)_
 
 
