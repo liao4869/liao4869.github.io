@@ -8,7 +8,7 @@ _[Github](https://github.com/liao4869)_
 | Time                | Institution                                            |
 |:--------------------|:-------------------------------------------------------|
 | Sep 2016 - Apr 2017 | ELC in U of M                                          |
-| May 2017 - Present  | Bachelor of Science - Computer Science Major in U of M |
+| May 2017 - Feb 2023 | Bachelor of Science - Computer Science Major in U of M |
 
 # _**TECHNICAL SKILLS**_
 
