@@ -1,9 +1,8 @@
-# **Liao**
+# **G. Liao**
 _[Github](https://github.com/liao4869)_
 
 
 # _**EDUCATION**_
-#### (Expected graduation time: Feburary 2023)
 
 | Time                | Institution                                            |
 |:--------------------|:-------------------------------------------------------|
@@ -24,7 +23,7 @@ _[Github](https://github.com/liao4869)_
 
 #### **Additional skills**
 * Assemble personal computer.  
-* Fix little errors in personal computer.  
+* Fix little errors among personal computer.  
 * 3D modeling (learning).
 
   
