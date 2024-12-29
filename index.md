@@ -1,6 +1,6 @@
 # **Gongyu Liao**
 _[My Github](https://github.com/liao4869)_  
-liaog@myumanitoba.ca  
+yfgldtj@gmail.com  
 204-951-3943  
 
 
