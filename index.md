@@ -1,7 +1,7 @@
-# **G. Liao**
+# **Gongyu Liao**
 _[My Github](https://github.com/liao4869)_  
 liaog@myumanitoba.ca
-
+204-951-3943  
 
 # _**EDUCATION**_
 
