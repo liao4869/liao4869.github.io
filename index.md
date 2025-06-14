@@ -23,7 +23,7 @@ liaog@myumanitoba.ca
 
 #### **Additional skills**
 * Assemble personal computer.  
-* Fix little errors among personal computer.  
+* Diagnose and fix errors among personal computer.  
 * 3D modeling (learning).
 
   
@@ -35,8 +35,8 @@ Implemented a demo algorithm of Advanced Encryption Standard (128-bit) by Java
 
 # _**EXPERIENCE**_
 
-* Developed food delivery website with classmates in COMP-3020 (HCI)
-* Developed game store APP with classmates in COMP-3350 (Software Engineering 1)
+* Developed food delivery website with teammates
+* Developed game store APP in a team
 
 
 
