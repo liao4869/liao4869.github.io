@@ -17,14 +17,13 @@ liaog@myumanitoba.ca
 | English            | C++                   | Github Pages                     |
 |                    | Java                  | Android Studio                   |
 |                    | Processing            | OpenGL                           |
-|                    | SQL                   | SQLite                           |
+|                    | SQLite                | DB Browser for SQLite            |
 |                    |                       | Office (Word, Excel, PowerPoint) |
 
 
 #### **Additional skills**
-* Assemble personal computer.  
-* Diagnose and fix errors among personal computer.  
-* 3D modeling (learning).
+* Assemble, Diagnose and fix errors among personal computer.  
+* 3D modeling and printing (learning).
 
   
 # _**PROJECT**_
@@ -35,8 +34,8 @@ Implemented a demo algorithm of Advanced Encryption Standard (128-bit) by Java
 
 # _**EXPERIENCE**_
 
-* Developed food delivery website with teammates
-* Developed game store APP in a team
+* Developed food delivery website with teammates (worked on functional test)
+* Developed game store APP in a team 
 
 
 
